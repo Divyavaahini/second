@@ -1,0 +1,5 @@
+a=1
+b=3
+c=6
+result=a+b+c
+print(result)
